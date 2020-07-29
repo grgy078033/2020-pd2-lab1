@@ -1,0 +1,16 @@
+Script started on 2020-03-13 05:00:29+0800
+]0;pd2@VirtualBox: ~[01;32mpd2@VirtualBox[00m:[01;34m~[00m$ whoamil[K;pwd
+pd2
+/home/pd2
+]0;pd2@VirtualBox: ~[01;32mpd2@VirtualBox[00m:[01;34m~[00m$ gitcong[K[K[K[K congi[K[Kfig 0[K-s[Kl
+[?1h=user.email=grgy078033@gmail.com[m
+user.name=grgy078033[m
+core.editor=vim[m
+[K[?1l>]0;pd2@VirtualBox: ~[01;32mpd2@VirtualBox[00m:[01;34m~[00m$ gi [Kt co[Klone gtt[K[K[Khttop[K[Kps;[K://pd2a.ins[K[Kmslab.org/gitlav[Kb/grgy078033/lav[Kb1.git
+Cloning into 'lab1'...
+Username for 'https://pd2a.imslab.org': grgy078033
+Password for 'https://grgy078033@pd2a.imslab.org': 
+warning: You appear to have cloned an empty repository.
+]0;pd2@VirtualBox: ~[01;32mpd2@VirtualBox[00m:[01;34m~[00m$ exit
+
+Script done on 2020-03-13 05:01:54+0800
